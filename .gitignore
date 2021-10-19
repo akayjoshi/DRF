@@ -6,4 +6,5 @@ db.*
 *.pot
 *.pyc
 */__pycache__/
-migration
+migration/
+
